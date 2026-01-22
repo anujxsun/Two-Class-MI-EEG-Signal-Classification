@@ -39,7 +39,7 @@ GridSearchCV was used to optimize model parameters including learning rate, acti
 - Matplotlib
 - Google Colab
 
-## Project Structure
+  ## Project Structure
 Two-Class-MI-EEG-Classification/
 │
 ├── notebooks/
@@ -58,6 +58,8 @@ Two-Class-MI-EEG-Classification/
 │
 ├── requirements.txt
 └── README.md
+
+
 
 
 ## How to Run
