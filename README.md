@@ -41,21 +41,16 @@ GridSearchCV was used to optimize model parameters including learning rate, acti
 
   ## Project Structure
 Two-Class-MI-EEG-Classification/
-│
 ├── notebooks/
 │   └── MI_EEG_Two_Class_Classification.ipynb
-│
 ├── data/
 │   └── README.md
-│
 ├── results/
 │   └── metrics.txt
-│
 ├── src/
 │   ├── preprocessing.py
 │   ├── feature_extraction.py
 │   └── models.py
-│
 ├── requirements.txt
 └── README.md
 
